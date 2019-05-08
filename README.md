@@ -98,14 +98,7 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 Your project will be reviewed against the project [rubric](#rubric).  Review this rubric thoroughly, and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.
 
 
-## Project Submission
 
-When you are ready to submit your project, collect all of your project files -- all executed notebooks, and python files -- and compress them into a single zip archive for upload.
-
-Alternatively, your submission could consist of only the **GitHub link** to your repository with all of the completed files.
-
-<a id='rubric'></a>
-## Project Rubric
 
 ### `models.py`
 
